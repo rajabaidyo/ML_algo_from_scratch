@@ -1,3 +1,4 @@
+#THIS CODE IS ONLY FOR THE UNIVARIATE CONDITION
 listx=[1,2,3,4,5,6,7]
 listy=[4,5,6,7,8,9,10]
 # m = slope and c = offset/bias
