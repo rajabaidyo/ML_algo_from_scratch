@@ -1,4 +1,5 @@
 // code for basic KNN with c++
+//run command => g++ -std=c++11 knn.cpp -o t && ./t
 #include<vector>
 #include<math.h>
 #include<iostream>
